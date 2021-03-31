@@ -49,6 +49,9 @@ Mais utilizado em aplicações front-end.
 
 `yarn test`
 
+Simula a inicialização de um servidor
 `yarn add supertest @types/supertest -D`
 
-44"
+## Variáveis de ambiente
+"test": "set NODE_ENV=test&&jest",
+"posttest": "del ./src/database/database.test.sqlite"
