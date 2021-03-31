@@ -55,3 +55,7 @@ Simula a inicialização de um servidor
 ## Variáveis de ambiente
 "test": "set NODE_ENV=test&&jest",
 "posttest": "del ./src/database/database.test.sqlite"
+
+##### Criando nova migration
+`yarn typeorm migration:create -n CreateSurveysUsers`
+`yarn typeorm migration:run`
