@@ -59,3 +59,9 @@ Simula a inicialização de um servidor
 ##### Criando nova migration
 `yarn typeorm migration:create -n CreateSurveysUsers`
 `yarn typeorm migration:run`
+
+## Envio de e-mails
+`yarn add nodemailer`
+`yarn add @types/nodemailer`
+
+44"
