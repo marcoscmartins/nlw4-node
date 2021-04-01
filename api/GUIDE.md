@@ -64,4 +64,6 @@ Simula a inicialização de um servidor
 `yarn add nodemailer`
 `yarn add @types/nodemailer`
 
-44"
+### handlebars
+
+`yarn add handlebars`
