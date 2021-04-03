@@ -64,6 +64,13 @@ Simula a inicialização de um servidor
 `yarn add nodemailer`
 `yarn add @types/nodemailer`
 
-### handlebars
+##### [Handlebars](https://handlebarsjs.com/)
 
 `yarn add handlebars`
+
+
+## Validações
+
+##### [Yup](https://github.com/jquense/yup)
+`yarn add yup` 
+
