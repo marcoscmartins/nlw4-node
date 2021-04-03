@@ -74,3 +74,5 @@ Simula a inicialização de um servidor
 ##### [Yup](https://github.com/jquense/yup)
 `yarn add yup` 
 
+`express-async-errors`
+
